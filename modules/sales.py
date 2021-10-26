@@ -5,3 +5,4 @@ z=x+y
 def create_customer():
 	print("creating customer")
 print("sales ended")
+print("Added now")
