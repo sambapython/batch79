@@ -1,0 +1,12 @@
+AC manufaturer: test cases:100, Automate these.
+Does you machine has python module to connect? yes.. use that module and automate it.
+No:
+does your machine has an API connect: yes.. requests module. and automate it.
+No:
+does your machine has any service to conncet: yes:  ssh : paramiko/fabric.. automate it. TELNET: winrm is module to connect to telnet.
+NO:
+ok.. do you have a time to write an APIS and automate it: yes, we will write an apis. and use those APIs to automate it.
+we will run API sevice in the device will call those APIS to automate the device.
+
+NO:
+SMALL SERVER SOCKET in his machine. 
